@@ -1,0 +1,30 @@
+{
+  "name": "node-grunt-sass",
+  "version": "1.0.0",
+  "description": "node grunt sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RookieDouby/nodepractice.git"
+  },
+  "author": "rookiedouby",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/RookieDouby/nodepractice/issues"
+  },
+  "homepage": "https://github.com/RookieDouby/nodepractice#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
